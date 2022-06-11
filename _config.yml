@@ -26,7 +26,8 @@ facebook_username: "https://www.facebook.com/profile.php?id=100004057374960"
 instagram_username: "https://www.instagram.com/_rahul_raj_r/"
 about_profile_image: images/WhatsApp Image 2022-06-11 at 2.49.18 PM.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Motivated ,Hardworking and team-orieanted while Graduationg with a <mark>Bachelor's of computer application Degree</mark> . 
+  Motivated ,Hardworking and team-orieanted while Graduating with a <mark> Bachelor's of computer application </mark> Degree.
+  this is a test not completed
 
 content:
   - title: Projects # Title for the section
