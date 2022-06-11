@@ -1,9 +1,8 @@
-- name: Institution 1
-  dates: 2016 - 2019
+- name: Jain Deemed To Be University
+  dates: 2019 - 2022
   qualification: Degree
   quote: >
-    Short institution or course description
-  description: >
+    Bachelors's in Computer Application >
     Description of qualification
 
 - layout: left
