@@ -19,20 +19,11 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: https://www.facebook.com/profile.php?id=100004057374960
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
 
+
+
+facebook_username: "https://www.facebook.com/profile.php?id=100004057374960"
+instagram_username: jekyll
 # Additional icon links
 additional_links:
 - title: Link name
