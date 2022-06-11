@@ -26,13 +26,7 @@ facebook_username: "https://www.facebook.com/profile.php?id=100004057374960"
 instagram_username: "https://www.instagram.com/_rahul_raj_r/"
 about_profile_image: images/WhatsApp Image 2022-06-11 at 2.49.18 PM.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Motivated ,Hardworking and team-orieanted while Graduationg with a <mark>Bachelor's of computer application Degree</mark> . me description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Motivated ,Hardworking and team-orieanted while Graduationg with a <mark>Bachelor's of computer application Degree</mark> . 
 
 content:
   - title: Projects # Title for the section
@@ -52,27 +46,17 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Short overview of the project
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+          Description about the project
+  
           Description of role
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
+        sub_title: Qualifications (
         caption: Date Range (eg. 2016 - 2019)
         quote: >
           Short institution or course description (optional)
@@ -81,9 +65,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      
 
 # Footer
 footer_show_references: true
