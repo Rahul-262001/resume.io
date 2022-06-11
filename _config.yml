@@ -10,13 +10,13 @@ name: Rahul Raj R
 title: Bachelors's in Computer Application
 email: 9148520218
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 9148520218
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
