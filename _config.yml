@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
+name: Rahul Raj R
+title: Bachelors's in Computer Application
 email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
