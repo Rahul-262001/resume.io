@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Rahul Raj R
-title: Bachelors's in Computer Application
+title: Bachelor's in Computer Application
 email: rahulraj_2001@hotmail.com
 # email_title: Email (Email title override)
 phone: 9148520218
@@ -23,7 +23,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
-facebook_username: jekyll
+facebook_username: "https://www.facebook.com/profile.php?id=100004057374960"
 flickr_username: jekyll
 instagram_username: jekyll
 linkedin_username: jekyll
