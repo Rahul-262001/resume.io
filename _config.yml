@@ -24,7 +24,7 @@ darkmode: true
 
 facebook_username: "https://www.facebook.com/profile.php?id=100004057374960"
 instagram_username: "https://www.instagram.com/_rahul_raj_r/"
-about_profile_image: image/WhatsApp Image 2022-06-11 at 2.49.18 PM.jpeg
+about_profile_image: images/WhatsApp Image 2022-06-11 at 2.49.18 PM.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
