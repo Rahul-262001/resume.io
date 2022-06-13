@@ -35,9 +35,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: NFT Marketplace with Asset Authenticity Verification
+        link:https://drive.google.com/file/d/1GDOy4L4_N6xaHjKGYqPpS7O_ydT3aLon/view?usp=sharing
+        link_text: Reaserch Paper
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
