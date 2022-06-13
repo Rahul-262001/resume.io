@@ -42,7 +42,7 @@ content:
         additional_links:
           
         quote: >
-          Short overview of the project
+          
         description: Non-fungible Tokens (NFTs) are a sort of virtual crypto asset and money that are produced utilizing blockchain technology. In recent years, the popularity of blockchain technology, as well as dealing in crypto assets, has risen. Having said that, as seen in recent years, the NFT market is also booming. The idea of NFT is built on an Ethereum token standard that tries to identify and differentiate each token by attaching its unique signature to digital assets.
           
           This project proposes to improve the security characteristics of the NFT Marketplace. It attempts to accomplish this by presenting the technique of Asset Verification in order to secure NFTs from getting into incorrect hands and avoid misuse. Asset Verification is performed by issuing a unique alphanumeric key to each NFT that the seller desires to sell. This offers legitimacy to the NFT and helps to combat piracy. It also allows users an interface to generate, purchase and sell NFTs in this marketplace.
@@ -57,7 +57,7 @@ content:
         quote: >
           
   - title: A Little More About Me
-    layout: text
+    layout: middle
     content: Love Swimming, Gardening and long Bike rides
       
 
