@@ -50,14 +50,14 @@ content:
   - title: Bachelor's in Computer Application
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Jain deemed to Be university
         sub_title: Bachelor's in Computer Application
         caption: 2019 -2022
         quote: >
           
   - title: A Little More About Me
-    layout: middle
+    layout: text
     content: Love Swimming, Gardening and long Bike rides
       
 
