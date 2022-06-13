@@ -39,32 +39,25 @@ content:
         link: https://drive.google.com/file/d/1GDOy4L4_N6xaHjKGYqPpS7O_ydT3aLon/view?usp=sharing
         link_text: Reaserch Paper
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          
         quote: >
           Short overview of the project
-        description: | # this will include new lines to allow paragraphs
-          Description about the project
-  
-          Description of role
-  - title: Education
+        description: Non-fungible Tokens (NFTs) are a sort of virtual crypto asset and money that are produced utilizing blockchain technology. In recent years, the popularity of blockchain technology, as well as dealing in crypto assets, has risen. Having said that, as seen in recent years, the NFT market is also booming. The idea of NFT is built on an Ethereum token standard that tries to identify and differentiate each token by attaching its unique signature to digital assets.
+          
+          This project proposes to improve the security characteristics of the NFT Marketplace. It attempts to accomplish this by presenting the technique of Asset Verification in order to secure NFTs from getting into incorrect hands and avoid misuse. Asset Verification is performed by issuing a unique alphanumeric key to each NFT that the seller desires to sell. This offers legitimacy to the NFT and helps to combat piracy. It also allows users an interface to generate, purchase and sell NFTs in this marketplace.
+         
+  - title: Bachelor's in Computer Application
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (
-        caption: Date Range (eg. 2016 - 2019)
+        title: Jain deemed to Be university
+        sub_title: Bachelor's in Computer Application
+        caption: 2019 -2022
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: Love Swimming and Gardening
       
 
 # Footer
