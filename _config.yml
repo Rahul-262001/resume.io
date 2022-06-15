@@ -26,8 +26,7 @@ facebook_username: "/profile.php?id=100004057374960"
 instagram_username: "//_rahul_raj_r/"
 about_profile_image: images/WhatsApp Image 2022-06-11 at 2.49.18 PM.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am fluent in 3 Languages which is English, Hindi and Kannada . I graduated from Widia Poorna Prajna School with a 72% grade point average. I completed my pre-university college in Vidya Soudha PU college with a First prize in Science fare for performing ethical hacking and graduated my college with an 82% and completed my Bachelors degree in Computer Applications in Jain Deemed to be University.  
-  Skill : C, C++, Java, RDBMS, HTML, have worked with Kali Linux and Azure.
+ I am fluent in 3 languages, which are English, Hindi, and Kannada. I graduated from Widia Poorna Prajna School with a 72% grade point average. I completed my pre-university college in Vidya Soudha PU college with a First prize in Science Fare for performing ethical hacking; I graduated from my college with an 82%; and I completed my Bachelor's degree in Computer Applications in Jain Deemed to be University.
 
 content:
   - title: Projects # Title for the section
